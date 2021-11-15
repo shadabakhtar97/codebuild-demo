@@ -24,7 +24,7 @@ Resources:
             Type: OAUTH
             Resource: 82449e916b8d3b401e3061cbbb30b2b624bf3538
         BuildSpec: java-example/buildspec.yml
-        Location: https://github.com/wes-novack/codebuild-demo
+        Location: https://github.com/shadabakhtar97/codebuild-demo
       TimeoutInMinutes: 5
       Cache:
         Type: LOCAL
